@@ -1,0 +1,15 @@
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/bin/Debug/net7.0/PhoneNumberAnalysis
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/bin/Debug/net7.0/PhoneNumberAnalysis.deps.json
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/bin/Debug/net7.0/PhoneNumberAnalysis.runtimeconfig.json
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/bin/Debug/net7.0/PhoneNumberAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/bin/Debug/net7.0/PhoneNumberAnalysis.pdb
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.csproj.AssemblyReference.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.AssemblyInfoInputs.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.AssemblyInfo.cs
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.csproj.CoreCompileInputs.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/refint/PhoneNumberAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.pdb
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/PhoneNumberAnalysis.genruntimeconfig.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/Tuples/PhoneNumberAnalysis/obj/Debug/net7.0/ref/PhoneNumberAnalysis.dll

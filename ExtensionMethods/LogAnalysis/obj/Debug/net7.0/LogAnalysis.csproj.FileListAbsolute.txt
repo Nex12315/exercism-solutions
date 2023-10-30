@@ -1,0 +1,15 @@
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/bin/Debug/net7.0/LogAnalysis
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/bin/Debug/net7.0/LogAnalysis.deps.json
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/bin/Debug/net7.0/LogAnalysis.runtimeconfig.json
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/bin/Debug/net7.0/LogAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/bin/Debug/net7.0/LogAnalysis.pdb
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.csproj.AssemblyReference.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.AssemblyInfoInputs.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.AssemblyInfo.cs
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.csproj.CoreCompileInputs.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/refint/LogAnalysis.dll
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.pdb
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/LogAnalysis.genruntimeconfig.cache
+/Users/nikitamakarov/Documents/Code/CSharp/Exercism/ExtensionMethods/LogAnalysis/obj/Debug/net7.0/ref/LogAnalysis.dll
